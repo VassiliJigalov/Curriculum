@@ -1,0 +1,39 @@
+body {
+  background-color: #e7e9eb;
+}
+
+.bg-dark {
+  background-color: #5c403d;
+  color: #FFFFFF;
+}
+
+.bg-dark img.img-as-circle {
+  border: 2px #f3f3f3 solid;
+}
+
+.bg-dark .title {
+}
+
+.bg-gray {
+  background-color: #f3f3f3;
+}
+
+.bg-gray .tag {
+  color: #ffa869;
+}
+
+.styles-reset a {
+  color: #ffbb91;
+  text-decoration: underline #ffbb91;
+}
+
+
+.styles-reset .bg-gray a {
+  color: #ffa869;
+  text-decoration: underline #ffa869;
+}
+
+.bg-gray .title {
+  background-color: #5c403d;
+  color: #f3f3f3;
+}
